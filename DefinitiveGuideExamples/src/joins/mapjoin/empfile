@@ -1,0 +1,4 @@
+emp.csv
+name address dept_num
+
+Place dept.csv in DCache, so this file will be available for TaskTrackers(Copied to All DNs) from source/hdfs, and input files is emp.csv from hdfs(blocks on Tasktrackers)
